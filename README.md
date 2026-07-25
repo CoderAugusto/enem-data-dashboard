@@ -1,5 +1,5 @@
 
-# ENEM Data Dashboard
+# Análise Socioeconômica e Desempenho no ENEM 2020
 
 Análise exploratória dos microdados do ENEM 2020, investigando como a renda familiar dos participantes se relaciona com a ausência nas provas e com o desempenho nas diferentes áreas do conhecimento.
 
